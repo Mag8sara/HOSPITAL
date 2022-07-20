@@ -1,5 +1,5 @@
 # HOSPITAL
-#Overview
+# Overview
 Developing an online referral service for outpatient clinics was proposed because Jalawi Hospital Website lacked an electronic service for referring patients from local health centers to outpatient clinics in the hospital. The idea is replace the existing process where the health center manually hand patients referral papers which they need to take to the hospital to make the necessary appointments. This involved a waste of time and efforts. To bridge this gap, this project was requested by the site supervisor. In addition, this website allows hospital’s employees to add a scanned image of the patient appointment ticket after the completion of the booking process in the hospital reservation system (which is the system used by the hospital staff to make appointments upon receiving appointment referrals from the local health centers). I contributed in developing this website by creating these pages: Error Page, Footer Page, Admin Page, and View Reservation Page. Also, I created one table in the database named “Admin”.
 # Tools
 I used the NetBeans IDE 8.1 software that offers the PHP, CSS, HTML and JavaScript. With this software, I wrote the code of the website. In addition, I used Axure RP Pro 7.0 for designing the prototype. I also used PHPMyadmin in the local host server, and control panel (cPanel) in the Dimofinf Server.
