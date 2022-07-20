@@ -1,0 +1,67 @@
+
+#footer{
+
+    color: white;
+    padding-right: 10px;
+    background-image:url('img/footer1.gif'); 
+
+    background-repeat: no-repeat ;
+   
+    background-size: 100%;
+    max-width: 1347px; 
+    overflow: hidden;
+ 
+    display:inline-block;
+    
+   padding: 0px 50px 0px 50px;
+ 
+}
+
+.col1
+{
+    display:inline-block;
+    float: left;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 40px;
+    position: relative;
+    width: 200px;
+  
+    text-align: center;
+    color: white;
+}
+
+
+
+#foo
+{
+  
+    list-style:none;  
+    text-align: center;
+    margin-top: 15px;
+}
+.link
+{
+    display: list-item;
+    margin-right: 15px;
+}
+
+
+.link a:link{
+color: red;  
+}
+.link a:visited {
+  color: white;
+}
+.link a:hover{
+    color: white;
+}
+.link a:active {
+    color: blue;
+}
+.admin
+{
+    font-size: 20px;
+    color: white;;
+}
+
